@@ -124,6 +124,5 @@
              
              
  ## 14) define personView class in views.py
- 
- 
+
         
